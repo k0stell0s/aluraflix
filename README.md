@@ -30,5 +30,5 @@ AluraFlix es un Reto del programa de Oracle Next Education y Alura Latan. El cua
 - Axios
 - X Data Grid
 ## Autores
-| [<img src="https://www.github.com/zidjian.png" width=115><br><sub>Waldir Maidana </sub>](https://github.com/zidjian) |
+| [<img src="https://" width=115><br><sub> Andres Valencia </sub>](https://github.com/k0stell0s) |
 | :---: |
